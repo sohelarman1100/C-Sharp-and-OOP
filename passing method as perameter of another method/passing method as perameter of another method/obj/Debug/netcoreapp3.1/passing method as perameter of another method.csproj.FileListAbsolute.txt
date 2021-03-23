@@ -1,0 +1,13 @@
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\bin\Debug\netcoreapp3.1\passing method as perameter of another method.exe
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\bin\Debug\netcoreapp3.1\passing method as perameter of another method.deps.json
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\bin\Debug\netcoreapp3.1\passing method as perameter of another method.runtimeconfig.json
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\bin\Debug\netcoreapp3.1\passing method as perameter of another method.runtimeconfig.dev.json
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\bin\Debug\netcoreapp3.1\passing method as perameter of another method.dll
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\bin\Debug\netcoreapp3.1\passing method as perameter of another method.pdb
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\obj\Debug\netcoreapp3.1\passing method as perameter of another method.csprojAssemblyReference.cache
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\obj\Debug\netcoreapp3.1\passing method as perameter of another method.AssemblyInfoInputs.cache
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\obj\Debug\netcoreapp3.1\passing method as perameter of another method.AssemblyInfo.cs
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\obj\Debug\netcoreapp3.1\passing method as perameter of another method.csproj.CoreCompileInputs.cache
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\obj\Debug\netcoreapp3.1\passing method as perameter of another method.dll
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\obj\Debug\netcoreapp3.1\passing method as perameter of another method.pdb
+G:\C# code\passing method as perameter of another method\passing method as perameter of another method\obj\Debug\netcoreapp3.1\passing method as perameter of another method.genruntimeconfig.cache

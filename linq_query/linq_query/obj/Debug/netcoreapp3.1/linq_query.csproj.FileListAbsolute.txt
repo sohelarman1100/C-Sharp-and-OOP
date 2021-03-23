@@ -1,0 +1,13 @@
+G:\C# code\linq_query\linq_query\obj\Debug\netcoreapp3.1\linq_query.csprojAssemblyReference.cache
+G:\C# code\linq_query\linq_query\obj\Debug\netcoreapp3.1\linq_query.AssemblyInfoInputs.cache
+G:\C# code\linq_query\linq_query\obj\Debug\netcoreapp3.1\linq_query.AssemblyInfo.cs
+G:\C# code\linq_query\linq_query\obj\Debug\netcoreapp3.1\linq_query.csproj.CoreCompileInputs.cache
+G:\C# code\linq_query\linq_query\bin\Debug\netcoreapp3.1\linq_query.exe
+G:\C# code\linq_query\linq_query\bin\Debug\netcoreapp3.1\linq_query.deps.json
+G:\C# code\linq_query\linq_query\bin\Debug\netcoreapp3.1\linq_query.runtimeconfig.json
+G:\C# code\linq_query\linq_query\bin\Debug\netcoreapp3.1\linq_query.runtimeconfig.dev.json
+G:\C# code\linq_query\linq_query\bin\Debug\netcoreapp3.1\linq_query.dll
+G:\C# code\linq_query\linq_query\bin\Debug\netcoreapp3.1\linq_query.pdb
+G:\C# code\linq_query\linq_query\obj\Debug\netcoreapp3.1\linq_query.dll
+G:\C# code\linq_query\linq_query\obj\Debug\netcoreapp3.1\linq_query.pdb
+G:\C# code\linq_query\linq_query\obj\Debug\netcoreapp3.1\linq_query.genruntimeconfig.cache

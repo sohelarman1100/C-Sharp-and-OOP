@@ -1,0 +1,13 @@
+G:\C# code\Destructor_method\Destructor_method\bin\Debug\netcoreapp3.1\Destructor_method.exe
+G:\C# code\Destructor_method\Destructor_method\bin\Debug\netcoreapp3.1\Destructor_method.deps.json
+G:\C# code\Destructor_method\Destructor_method\bin\Debug\netcoreapp3.1\Destructor_method.runtimeconfig.json
+G:\C# code\Destructor_method\Destructor_method\bin\Debug\netcoreapp3.1\Destructor_method.runtimeconfig.dev.json
+G:\C# code\Destructor_method\Destructor_method\bin\Debug\netcoreapp3.1\Destructor_method.dll
+G:\C# code\Destructor_method\Destructor_method\bin\Debug\netcoreapp3.1\Destructor_method.pdb
+G:\C# code\Destructor_method\Destructor_method\obj\Debug\netcoreapp3.1\Destructor_method.csprojAssemblyReference.cache
+G:\C# code\Destructor_method\Destructor_method\obj\Debug\netcoreapp3.1\Destructor_method.AssemblyInfoInputs.cache
+G:\C# code\Destructor_method\Destructor_method\obj\Debug\netcoreapp3.1\Destructor_method.AssemblyInfo.cs
+G:\C# code\Destructor_method\Destructor_method\obj\Debug\netcoreapp3.1\Destructor_method.csproj.CoreCompileInputs.cache
+G:\C# code\Destructor_method\Destructor_method\obj\Debug\netcoreapp3.1\Destructor_method.dll
+G:\C# code\Destructor_method\Destructor_method\obj\Debug\netcoreapp3.1\Destructor_method.pdb
+G:\C# code\Destructor_method\Destructor_method\obj\Debug\netcoreapp3.1\Destructor_method.genruntimeconfig.cache

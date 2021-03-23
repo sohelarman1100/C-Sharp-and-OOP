@@ -1,0 +1,13 @@
+G:\C# code\oop first prob\oop first prob\obj\Debug\netcoreapp3.1\oop first prob.csprojAssemblyReference.cache
+G:\C# code\oop first prob\oop first prob\obj\Debug\netcoreapp3.1\oop first prob.AssemblyInfoInputs.cache
+G:\C# code\oop first prob\oop first prob\obj\Debug\netcoreapp3.1\oop first prob.AssemblyInfo.cs
+G:\C# code\oop first prob\oop first prob\obj\Debug\netcoreapp3.1\oop first prob.csproj.CoreCompileInputs.cache
+G:\C# code\oop first prob\oop first prob\bin\Debug\netcoreapp3.1\oop first prob.exe
+G:\C# code\oop first prob\oop first prob\bin\Debug\netcoreapp3.1\oop first prob.deps.json
+G:\C# code\oop first prob\oop first prob\bin\Debug\netcoreapp3.1\oop first prob.runtimeconfig.json
+G:\C# code\oop first prob\oop first prob\bin\Debug\netcoreapp3.1\oop first prob.runtimeconfig.dev.json
+G:\C# code\oop first prob\oop first prob\bin\Debug\netcoreapp3.1\oop first prob.dll
+G:\C# code\oop first prob\oop first prob\bin\Debug\netcoreapp3.1\oop first prob.pdb
+G:\C# code\oop first prob\oop first prob\obj\Debug\netcoreapp3.1\oop first prob.dll
+G:\C# code\oop first prob\oop first prob\obj\Debug\netcoreapp3.1\oop first prob.pdb
+G:\C# code\oop first prob\oop first prob\obj\Debug\netcoreapp3.1\oop first prob.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\C# code\multi_level_inheritance\multi_level_inheritance\obj\Debug\netcoreapp3.1\multi_level_inheritance.csprojAssemblyReference.cache
+G:\C# code\multi_level_inheritance\multi_level_inheritance\obj\Debug\netcoreapp3.1\multi_level_inheritance.AssemblyInfoInputs.cache
+G:\C# code\multi_level_inheritance\multi_level_inheritance\obj\Debug\netcoreapp3.1\multi_level_inheritance.AssemblyInfo.cs
+G:\C# code\multi_level_inheritance\multi_level_inheritance\obj\Debug\netcoreapp3.1\multi_level_inheritance.csproj.CoreCompileInputs.cache
+G:\C# code\multi_level_inheritance\multi_level_inheritance\bin\Debug\netcoreapp3.1\multi_level_inheritance.exe
+G:\C# code\multi_level_inheritance\multi_level_inheritance\bin\Debug\netcoreapp3.1\multi_level_inheritance.deps.json
+G:\C# code\multi_level_inheritance\multi_level_inheritance\bin\Debug\netcoreapp3.1\multi_level_inheritance.runtimeconfig.json
+G:\C# code\multi_level_inheritance\multi_level_inheritance\bin\Debug\netcoreapp3.1\multi_level_inheritance.runtimeconfig.dev.json
+G:\C# code\multi_level_inheritance\multi_level_inheritance\bin\Debug\netcoreapp3.1\multi_level_inheritance.dll
+G:\C# code\multi_level_inheritance\multi_level_inheritance\bin\Debug\netcoreapp3.1\multi_level_inheritance.pdb
+G:\C# code\multi_level_inheritance\multi_level_inheritance\obj\Debug\netcoreapp3.1\multi_level_inheritance.dll
+G:\C# code\multi_level_inheritance\multi_level_inheritance\obj\Debug\netcoreapp3.1\multi_level_inheritance.pdb
+G:\C# code\multi_level_inheritance\multi_level_inheritance\obj\Debug\netcoreapp3.1\multi_level_inheritance.genruntimeconfig.cache

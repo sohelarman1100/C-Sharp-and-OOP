@@ -1,0 +1,13 @@
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\bin\Debug\netcoreapp3.1\has a relation(aggregation).exe
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\bin\Debug\netcoreapp3.1\has a relation(aggregation).deps.json
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\bin\Debug\netcoreapp3.1\has a relation(aggregation).runtimeconfig.json
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\bin\Debug\netcoreapp3.1\has a relation(aggregation).runtimeconfig.dev.json
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\bin\Debug\netcoreapp3.1\has a relation(aggregation).dll
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\bin\Debug\netcoreapp3.1\has a relation(aggregation).pdb
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\obj\Debug\netcoreapp3.1\has a relation(aggregation).csprojAssemblyReference.cache
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\obj\Debug\netcoreapp3.1\has a relation(aggregation).AssemblyInfoInputs.cache
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\obj\Debug\netcoreapp3.1\has a relation(aggregation).AssemblyInfo.cs
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\obj\Debug\netcoreapp3.1\has a relation(aggregation).csproj.CoreCompileInputs.cache
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\obj\Debug\netcoreapp3.1\has a relation(aggregation).dll
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\obj\Debug\netcoreapp3.1\has a relation(aggregation).pdb
+G:\C# code\has a relation(aggregation)\has a relation(aggregation)\obj\Debug\netcoreapp3.1\has a relation(aggregation).genruntimeconfig.cache

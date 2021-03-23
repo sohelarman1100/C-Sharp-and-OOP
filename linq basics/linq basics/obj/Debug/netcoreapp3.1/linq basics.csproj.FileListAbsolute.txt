@@ -1,0 +1,13 @@
+G:\C# code\linq basics\linq basics\bin\Debug\netcoreapp3.1\linq basics.exe
+G:\C# code\linq basics\linq basics\bin\Debug\netcoreapp3.1\linq basics.deps.json
+G:\C# code\linq basics\linq basics\bin\Debug\netcoreapp3.1\linq basics.runtimeconfig.json
+G:\C# code\linq basics\linq basics\bin\Debug\netcoreapp3.1\linq basics.runtimeconfig.dev.json
+G:\C# code\linq basics\linq basics\bin\Debug\netcoreapp3.1\linq basics.dll
+G:\C# code\linq basics\linq basics\bin\Debug\netcoreapp3.1\linq basics.pdb
+G:\C# code\linq basics\linq basics\obj\Debug\netcoreapp3.1\linq basics.csprojAssemblyReference.cache
+G:\C# code\linq basics\linq basics\obj\Debug\netcoreapp3.1\linq basics.AssemblyInfoInputs.cache
+G:\C# code\linq basics\linq basics\obj\Debug\netcoreapp3.1\linq basics.AssemblyInfo.cs
+G:\C# code\linq basics\linq basics\obj\Debug\netcoreapp3.1\linq basics.csproj.CoreCompileInputs.cache
+G:\C# code\linq basics\linq basics\obj\Debug\netcoreapp3.1\linq basics.dll
+G:\C# code\linq basics\linq basics\obj\Debug\netcoreapp3.1\linq basics.pdb
+G:\C# code\linq basics\linq basics\obj\Debug\netcoreapp3.1\linq basics.genruntimeconfig.cache

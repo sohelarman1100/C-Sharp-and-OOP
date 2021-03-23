@@ -1,0 +1,13 @@
+G:\C# code\software_engineer_info\software_engineer_info\bin\Debug\netcoreapp3.1\software_engineer_info.exe
+G:\C# code\software_engineer_info\software_engineer_info\bin\Debug\netcoreapp3.1\software_engineer_info.deps.json
+G:\C# code\software_engineer_info\software_engineer_info\bin\Debug\netcoreapp3.1\software_engineer_info.runtimeconfig.json
+G:\C# code\software_engineer_info\software_engineer_info\bin\Debug\netcoreapp3.1\software_engineer_info.runtimeconfig.dev.json
+G:\C# code\software_engineer_info\software_engineer_info\bin\Debug\netcoreapp3.1\software_engineer_info.dll
+G:\C# code\software_engineer_info\software_engineer_info\bin\Debug\netcoreapp3.1\software_engineer_info.pdb
+G:\C# code\software_engineer_info\software_engineer_info\obj\Debug\netcoreapp3.1\software_engineer_info.AssemblyInfoInputs.cache
+G:\C# code\software_engineer_info\software_engineer_info\obj\Debug\netcoreapp3.1\software_engineer_info.AssemblyInfo.cs
+G:\C# code\software_engineer_info\software_engineer_info\obj\Debug\netcoreapp3.1\software_engineer_info.csproj.CoreCompileInputs.cache
+G:\C# code\software_engineer_info\software_engineer_info\obj\Debug\netcoreapp3.1\software_engineer_info.dll
+G:\C# code\software_engineer_info\software_engineer_info\obj\Debug\netcoreapp3.1\software_engineer_info.pdb
+G:\C# code\software_engineer_info\software_engineer_info\obj\Debug\netcoreapp3.1\software_engineer_info.genruntimeconfig.cache
+G:\C# code\software_engineer_info\software_engineer_info\obj\Debug\netcoreapp3.1\software_engineer_info.csprojAssemblyReference.cache

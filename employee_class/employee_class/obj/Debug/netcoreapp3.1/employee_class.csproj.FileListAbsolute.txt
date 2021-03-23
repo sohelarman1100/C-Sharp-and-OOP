@@ -1,0 +1,13 @@
+G:\C# code\employee_class\employee_class\obj\Debug\netcoreapp3.1\employee_class.csprojAssemblyReference.cache
+G:\C# code\employee_class\employee_class\obj\Debug\netcoreapp3.1\employee_class.AssemblyInfoInputs.cache
+G:\C# code\employee_class\employee_class\obj\Debug\netcoreapp3.1\employee_class.AssemblyInfo.cs
+G:\C# code\employee_class\employee_class\obj\Debug\netcoreapp3.1\employee_class.csproj.CoreCompileInputs.cache
+G:\C# code\employee_class\employee_class\bin\Debug\netcoreapp3.1\employee_class.exe
+G:\C# code\employee_class\employee_class\bin\Debug\netcoreapp3.1\employee_class.deps.json
+G:\C# code\employee_class\employee_class\bin\Debug\netcoreapp3.1\employee_class.runtimeconfig.json
+G:\C# code\employee_class\employee_class\bin\Debug\netcoreapp3.1\employee_class.runtimeconfig.dev.json
+G:\C# code\employee_class\employee_class\bin\Debug\netcoreapp3.1\employee_class.dll
+G:\C# code\employee_class\employee_class\bin\Debug\netcoreapp3.1\employee_class.pdb
+G:\C# code\employee_class\employee_class\obj\Debug\netcoreapp3.1\employee_class.dll
+G:\C# code\employee_class\employee_class\obj\Debug\netcoreapp3.1\employee_class.pdb
+G:\C# code\employee_class\employee_class\obj\Debug\netcoreapp3.1\employee_class.genruntimeconfig.cache

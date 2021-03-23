@@ -1,0 +1,13 @@
+G:\C# code\single delegates\single delegates\obj\Debug\netcoreapp3.1\single delegates.csprojAssemblyReference.cache
+G:\C# code\single delegates\single delegates\obj\Debug\netcoreapp3.1\single delegates.AssemblyInfoInputs.cache
+G:\C# code\single delegates\single delegates\obj\Debug\netcoreapp3.1\single delegates.AssemblyInfo.cs
+G:\C# code\single delegates\single delegates\obj\Debug\netcoreapp3.1\single delegates.csproj.CoreCompileInputs.cache
+G:\C# code\single delegates\single delegates\bin\Debug\netcoreapp3.1\single delegates.exe
+G:\C# code\single delegates\single delegates\bin\Debug\netcoreapp3.1\single delegates.deps.json
+G:\C# code\single delegates\single delegates\bin\Debug\netcoreapp3.1\single delegates.runtimeconfig.json
+G:\C# code\single delegates\single delegates\bin\Debug\netcoreapp3.1\single delegates.runtimeconfig.dev.json
+G:\C# code\single delegates\single delegates\bin\Debug\netcoreapp3.1\single delegates.dll
+G:\C# code\single delegates\single delegates\bin\Debug\netcoreapp3.1\single delegates.pdb
+G:\C# code\single delegates\single delegates\obj\Debug\netcoreapp3.1\single delegates.dll
+G:\C# code\single delegates\single delegates\obj\Debug\netcoreapp3.1\single delegates.pdb
+G:\C# code\single delegates\single delegates\obj\Debug\netcoreapp3.1\single delegates.genruntimeconfig.cache

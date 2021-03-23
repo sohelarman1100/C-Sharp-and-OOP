@@ -1,0 +1,13 @@
+G:\C# code\objori\objori\bin\Debug\netcoreapp3.1\objori.exe
+G:\C# code\objori\objori\bin\Debug\netcoreapp3.1\objori.deps.json
+G:\C# code\objori\objori\bin\Debug\netcoreapp3.1\objori.runtimeconfig.json
+G:\C# code\objori\objori\bin\Debug\netcoreapp3.1\objori.runtimeconfig.dev.json
+G:\C# code\objori\objori\bin\Debug\netcoreapp3.1\objori.dll
+G:\C# code\objori\objori\bin\Debug\netcoreapp3.1\objori.pdb
+G:\C# code\objori\objori\obj\Debug\netcoreapp3.1\objori.csprojAssemblyReference.cache
+G:\C# code\objori\objori\obj\Debug\netcoreapp3.1\objori.AssemblyInfoInputs.cache
+G:\C# code\objori\objori\obj\Debug\netcoreapp3.1\objori.AssemblyInfo.cs
+G:\C# code\objori\objori\obj\Debug\netcoreapp3.1\objori.csproj.CoreCompileInputs.cache
+G:\C# code\objori\objori\obj\Debug\netcoreapp3.1\objori.dll
+G:\C# code\objori\objori\obj\Debug\netcoreapp3.1\objori.pdb
+G:\C# code\objori\objori\obj\Debug\netcoreapp3.1\objori.genruntimeconfig.cache

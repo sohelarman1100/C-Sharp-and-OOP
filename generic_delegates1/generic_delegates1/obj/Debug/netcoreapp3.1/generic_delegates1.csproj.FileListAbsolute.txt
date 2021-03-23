@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\obj\Debug\netcoreapp3.1\generic_delegates1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\obj\Debug\netcoreapp3.1\generic_delegates1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\obj\Debug\netcoreapp3.1\generic_delegates1.AssemblyInfo.cs
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\obj\Debug\netcoreapp3.1\generic_delegates1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\bin\Debug\netcoreapp3.1\generic_delegates1.exe
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\bin\Debug\netcoreapp3.1\generic_delegates1.deps.json
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\bin\Debug\netcoreapp3.1\generic_delegates1.runtimeconfig.json
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\bin\Debug\netcoreapp3.1\generic_delegates1.runtimeconfig.dev.json
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\bin\Debug\netcoreapp3.1\generic_delegates1.dll
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\bin\Debug\netcoreapp3.1\generic_delegates1.pdb
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\obj\Debug\netcoreapp3.1\generic_delegates1.dll
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\obj\Debug\netcoreapp3.1\generic_delegates1.pdb
+C:\Users\HP\source\repos\generic_delegates1\generic_delegates1\obj\Debug\netcoreapp3.1\generic_delegates1.genruntimeconfig.cache

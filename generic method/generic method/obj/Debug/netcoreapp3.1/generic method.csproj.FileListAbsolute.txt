@@ -1,0 +1,13 @@
+G:\C# code\generic method\generic method\bin\Debug\netcoreapp3.1\generic method.exe
+G:\C# code\generic method\generic method\bin\Debug\netcoreapp3.1\generic method.deps.json
+G:\C# code\generic method\generic method\bin\Debug\netcoreapp3.1\generic method.runtimeconfig.json
+G:\C# code\generic method\generic method\bin\Debug\netcoreapp3.1\generic method.runtimeconfig.dev.json
+G:\C# code\generic method\generic method\bin\Debug\netcoreapp3.1\generic method.dll
+G:\C# code\generic method\generic method\bin\Debug\netcoreapp3.1\generic method.pdb
+G:\C# code\generic method\generic method\obj\Debug\netcoreapp3.1\generic method.csprojAssemblyReference.cache
+G:\C# code\generic method\generic method\obj\Debug\netcoreapp3.1\generic method.AssemblyInfoInputs.cache
+G:\C# code\generic method\generic method\obj\Debug\netcoreapp3.1\generic method.AssemblyInfo.cs
+G:\C# code\generic method\generic method\obj\Debug\netcoreapp3.1\generic method.csproj.CoreCompileInputs.cache
+G:\C# code\generic method\generic method\obj\Debug\netcoreapp3.1\generic method.dll
+G:\C# code\generic method\generic method\obj\Debug\netcoreapp3.1\generic method.pdb
+G:\C# code\generic method\generic method\obj\Debug\netcoreapp3.1\generic method.genruntimeconfig.cache

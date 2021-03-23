@@ -1,0 +1,13 @@
+G:\C# code\tst\tst\obj\Debug\netcoreapp3.1\tst.csprojAssemblyReference.cache
+G:\C# code\tst\tst\obj\Debug\netcoreapp3.1\tst.AssemblyInfoInputs.cache
+G:\C# code\tst\tst\obj\Debug\netcoreapp3.1\tst.AssemblyInfo.cs
+G:\C# code\tst\tst\obj\Debug\netcoreapp3.1\tst.csproj.CoreCompileInputs.cache
+G:\C# code\tst\tst\bin\Debug\netcoreapp3.1\tst.exe
+G:\C# code\tst\tst\bin\Debug\netcoreapp3.1\tst.deps.json
+G:\C# code\tst\tst\bin\Debug\netcoreapp3.1\tst.runtimeconfig.json
+G:\C# code\tst\tst\bin\Debug\netcoreapp3.1\tst.runtimeconfig.dev.json
+G:\C# code\tst\tst\bin\Debug\netcoreapp3.1\tst.dll
+G:\C# code\tst\tst\bin\Debug\netcoreapp3.1\tst.pdb
+G:\C# code\tst\tst\obj\Debug\netcoreapp3.1\tst.dll
+G:\C# code\tst\tst\obj\Debug\netcoreapp3.1\tst.pdb
+G:\C# code\tst\tst\obj\Debug\netcoreapp3.1\tst.genruntimeconfig.cache

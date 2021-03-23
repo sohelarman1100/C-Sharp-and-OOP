@@ -1,0 +1,13 @@
+G:\C# code\second\second\bin\Debug\netcoreapp3.1\second.exe
+G:\C# code\second\second\bin\Debug\netcoreapp3.1\second.deps.json
+G:\C# code\second\second\bin\Debug\netcoreapp3.1\second.runtimeconfig.json
+G:\C# code\second\second\bin\Debug\netcoreapp3.1\second.runtimeconfig.dev.json
+G:\C# code\second\second\bin\Debug\netcoreapp3.1\second.dll
+G:\C# code\second\second\bin\Debug\netcoreapp3.1\second.pdb
+G:\C# code\second\second\obj\Debug\netcoreapp3.1\second.csprojAssemblyReference.cache
+G:\C# code\second\second\obj\Debug\netcoreapp3.1\second.AssemblyInfoInputs.cache
+G:\C# code\second\second\obj\Debug\netcoreapp3.1\second.AssemblyInfo.cs
+G:\C# code\second\second\obj\Debug\netcoreapp3.1\second.csproj.CoreCompileInputs.cache
+G:\C# code\second\second\obj\Debug\netcoreapp3.1\second.dll
+G:\C# code\second\second\obj\Debug\netcoreapp3.1\second.pdb
+G:\C# code\second\second\obj\Debug\netcoreapp3.1\second.genruntimeconfig.cache

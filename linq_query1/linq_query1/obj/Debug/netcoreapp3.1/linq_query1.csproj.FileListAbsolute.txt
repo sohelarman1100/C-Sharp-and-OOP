@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\linq_query1\linq_query1\obj\Debug\netcoreapp3.1\linq_query1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\linq_query1\linq_query1\obj\Debug\netcoreapp3.1\linq_query1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\linq_query1\linq_query1\obj\Debug\netcoreapp3.1\linq_query1.AssemblyInfo.cs
+C:\Users\HP\source\repos\linq_query1\linq_query1\obj\Debug\netcoreapp3.1\linq_query1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\linq_query1\linq_query1\bin\Debug\netcoreapp3.1\linq_query1.exe
+C:\Users\HP\source\repos\linq_query1\linq_query1\bin\Debug\netcoreapp3.1\linq_query1.deps.json
+C:\Users\HP\source\repos\linq_query1\linq_query1\bin\Debug\netcoreapp3.1\linq_query1.runtimeconfig.json
+C:\Users\HP\source\repos\linq_query1\linq_query1\bin\Debug\netcoreapp3.1\linq_query1.runtimeconfig.dev.json
+C:\Users\HP\source\repos\linq_query1\linq_query1\bin\Debug\netcoreapp3.1\linq_query1.dll
+C:\Users\HP\source\repos\linq_query1\linq_query1\bin\Debug\netcoreapp3.1\linq_query1.pdb
+C:\Users\HP\source\repos\linq_query1\linq_query1\obj\Debug\netcoreapp3.1\linq_query1.dll
+C:\Users\HP\source\repos\linq_query1\linq_query1\obj\Debug\netcoreapp3.1\linq_query1.pdb
+C:\Users\HP\source\repos\linq_query1\linq_query1\obj\Debug\netcoreapp3.1\linq_query1.genruntimeconfig.cache

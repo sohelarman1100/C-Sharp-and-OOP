@@ -1,0 +1,13 @@
+G:\C# code\lambda expression\lambda expression\obj\Debug\netcoreapp3.1\lambda expression.csprojAssemblyReference.cache
+G:\C# code\lambda expression\lambda expression\obj\Debug\netcoreapp3.1\lambda expression.AssemblyInfoInputs.cache
+G:\C# code\lambda expression\lambda expression\obj\Debug\netcoreapp3.1\lambda expression.AssemblyInfo.cs
+G:\C# code\lambda expression\lambda expression\obj\Debug\netcoreapp3.1\lambda expression.csproj.CoreCompileInputs.cache
+G:\C# code\lambda expression\lambda expression\bin\Debug\netcoreapp3.1\lambda expression.exe
+G:\C# code\lambda expression\lambda expression\bin\Debug\netcoreapp3.1\lambda expression.deps.json
+G:\C# code\lambda expression\lambda expression\bin\Debug\netcoreapp3.1\lambda expression.runtimeconfig.json
+G:\C# code\lambda expression\lambda expression\bin\Debug\netcoreapp3.1\lambda expression.runtimeconfig.dev.json
+G:\C# code\lambda expression\lambda expression\bin\Debug\netcoreapp3.1\lambda expression.dll
+G:\C# code\lambda expression\lambda expression\bin\Debug\netcoreapp3.1\lambda expression.pdb
+G:\C# code\lambda expression\lambda expression\obj\Debug\netcoreapp3.1\lambda expression.dll
+G:\C# code\lambda expression\lambda expression\obj\Debug\netcoreapp3.1\lambda expression.pdb
+G:\C# code\lambda expression\lambda expression\obj\Debug\netcoreapp3.1\lambda expression.genruntimeconfig.cache

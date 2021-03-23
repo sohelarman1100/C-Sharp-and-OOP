@@ -1,0 +1,13 @@
+G:\C# code\multicast delegates\multicast delegates\bin\Debug\netcoreapp3.1\multicast delegates.exe
+G:\C# code\multicast delegates\multicast delegates\bin\Debug\netcoreapp3.1\multicast delegates.deps.json
+G:\C# code\multicast delegates\multicast delegates\bin\Debug\netcoreapp3.1\multicast delegates.runtimeconfig.json
+G:\C# code\multicast delegates\multicast delegates\bin\Debug\netcoreapp3.1\multicast delegates.runtimeconfig.dev.json
+G:\C# code\multicast delegates\multicast delegates\bin\Debug\netcoreapp3.1\multicast delegates.dll
+G:\C# code\multicast delegates\multicast delegates\bin\Debug\netcoreapp3.1\multicast delegates.pdb
+G:\C# code\multicast delegates\multicast delegates\obj\Debug\netcoreapp3.1\multicast delegates.csprojAssemblyReference.cache
+G:\C# code\multicast delegates\multicast delegates\obj\Debug\netcoreapp3.1\multicast delegates.AssemblyInfoInputs.cache
+G:\C# code\multicast delegates\multicast delegates\obj\Debug\netcoreapp3.1\multicast delegates.AssemblyInfo.cs
+G:\C# code\multicast delegates\multicast delegates\obj\Debug\netcoreapp3.1\multicast delegates.csproj.CoreCompileInputs.cache
+G:\C# code\multicast delegates\multicast delegates\obj\Debug\netcoreapp3.1\multicast delegates.dll
+G:\C# code\multicast delegates\multicast delegates\obj\Debug\netcoreapp3.1\multicast delegates.pdb
+G:\C# code\multicast delegates\multicast delegates\obj\Debug\netcoreapp3.1\multicast delegates.genruntimeconfig.cache
