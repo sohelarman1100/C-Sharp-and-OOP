@@ -1,38 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace tst
 {
     public class Program
     {
-        public int add(params int[] ara)
-        {
-            int i, res = 0;
-            for(i=0; i<ara.Length;i++)
-            {
-                res += ara[i];
-            }
-            return res;
-        }
         static void Main(string[] args)
         {
             int k,i,j,m,n;
-            //List<int> lst = new List<int>();
-            var inp = Console.ReadLine();
-            var data = inp.Split(' ');
-            //k = inp.Length;
-            //Console.WriteLine(k);
-            k = data.Length;
-            int[] lst = new int[k];
-            for(i=0; i<k; i++)
+            List<int> lst = new List<int> { 1,2,3,4,5,6,7};
+            var res = lst.Select((num, ind) => new { num = num, ind = ind }).Select(x => x.ind);
+            foreach(var kn in res)
             {
-                m = int.Parse(data[i]);
-                lst[i] = m;
+                Console.WriteLine(kn);
             }
-            Program obj = new Program();
-            m = obj.add(lst);
-            Console.WriteLine(m);
-
         }
     }
 }
